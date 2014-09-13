@@ -1,0 +1,7 @@
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\PongBall.csprojResolveAssemblyReference.cache
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\Content\simple ball.xnb
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\PongBall.exe
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\PongBall.pdb
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\PongBall.exe
+C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\PongBall.pdb
