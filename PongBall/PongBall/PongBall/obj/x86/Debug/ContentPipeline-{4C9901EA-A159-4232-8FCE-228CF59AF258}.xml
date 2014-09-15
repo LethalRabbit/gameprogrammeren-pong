@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\Content\simple ball.xnb</Output>
-      <Time>2014-09-13T15:26:52.5179769+02:00</Time>
+      <Output>D:\UU - Informatica\Year 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\Content\simple ball.xnb</Output>
+      <Time>2014-09-15T01:05:24.8134494+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -17,10 +17,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBallContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Gametechnologie\Jaar 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\UU - Informatica\Year 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBallContent\</RootDirectory>
+      <LoggerRootDirectory>D:\UU - Informatica\Year 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\UU - Informatica\Year 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\UU - Informatica\Year 1\Gameprogrammeren\gameprogrammeren-pong\PongBall\PongBall\PongBall\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -49,7 +49,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-09-06T12:10:19.7543396+02:00</Value>
+        <Value>2014-09-07T23:02:49.963012+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

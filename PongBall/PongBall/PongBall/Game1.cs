@@ -15,10 +15,11 @@ namespace PongBall
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        private Texture2D ball;
-        private Vector2 ballPosition = new Vector2();
-        private Vector2 ballVelocity = new Vector2();
-        private int WIDTH, HEIGHT;
+        Texture2D ball;
+        Vector2 ballPosition = new Vector2();
+        float Xspeed = -4;
+        float Yspeed = 4;
+        int WIDTH, HEIGHT;
 
         static void Main()
         {
@@ -52,18 +53,19 @@ namespace PongBall
 
         protected override void Update(GameTime gameTime)
         {
-            ballVelocity = new Vector2(4f, 4f);
 
-            if (ballPosition.Y >= HEIGHT - 30)
+            ballPosition.X = ballPosition.X + Xspeed;
+            ballPosition.Y = ballPosition.Y + Yspeed;
+
+            if (ballPosition.Y > HEIGHT - 30 || ballPosition.Y <= 0)
             {
-                ballVelocity.Y = ballVelocity.Y * -1;
+                Yspeed = -Yspeed;
             }
-            if (ballPosition.X >= WIDTH - 30)
+            if (ballPosition.X > WIDTH - 30 || ballPosition.X <= 0 )
             {
-                ballVelocity.X = ballVelocity.X * -1;
+                Xspeed = -Xspeed;
             }
-            ballPosition.X = ballPosition.X + ballVelocity.X;
-            ballPosition.Y = ballPosition.Y + ballVelocity.Y;
+
             base.Update(gameTime);
         }
 
